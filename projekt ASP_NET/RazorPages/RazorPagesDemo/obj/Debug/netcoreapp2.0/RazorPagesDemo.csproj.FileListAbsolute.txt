@@ -1,0 +1,28 @@
+D:\RazorDemo\RazorPagesDemo\RazorPagesDemo\bin\Debug\netcoreapp2.0\RazorPagesDemo.deps.json
+D:\RazorDemo\RazorPagesDemo\RazorPagesDemo\bin\Debug\netcoreapp2.0\RazorPagesDemo.runtimeconfig.json
+D:\RazorDemo\RazorPagesDemo\RazorPagesDemo\bin\Debug\netcoreapp2.0\RazorPagesDemo.runtimeconfig.dev.json
+D:\RazorDemo\RazorPagesDemo\RazorPagesDemo\bin\Debug\netcoreapp2.0\RazorPagesDemo.dll
+D:\RazorDemo\RazorPagesDemo\RazorPagesDemo\bin\Debug\netcoreapp2.0\RazorPagesDemo.pdb
+D:\RazorDemo\RazorPagesDemo\RazorPagesDemo\obj\Debug\netcoreapp2.0\RazorPagesDemo.csprojResolveAssemblyReference.cache
+D:\RazorDemo\RazorPagesDemo\RazorPagesDemo\obj\Debug\netcoreapp2.0\RazorPagesDemo.csproj.CoreCompileInputs.cache
+D:\RazorDemo\RazorPagesDemo\RazorPagesDemo\obj\Debug\netcoreapp2.0\RazorPagesDemo.AssemblyInfoInputs.cache
+D:\RazorDemo\RazorPagesDemo\RazorPagesDemo\obj\Debug\netcoreapp2.0\RazorPagesDemo.AssemblyInfo.cs
+D:\RazorDemo\RazorPagesDemo\RazorPagesDemo\obj\Debug\netcoreapp2.0\RazorPagesDemo.dll
+D:\RazorDemo\RazorPagesDemo\RazorPagesDemo\obj\Debug\netcoreapp2.0\RazorPagesDemo.pdb
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\bin\Debug\netcoreapp2.0\RazorPagesDemo.deps.json
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\bin\Debug\netcoreapp2.0\RazorPagesDemo.runtimeconfig.json
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\bin\Debug\netcoreapp2.0\RazorPagesDemo.runtimeconfig.dev.json
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\bin\Debug\netcoreapp2.0\RazorPagesDemo.dll
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\bin\Debug\netcoreapp2.0\RazorPagesDemo.pdb
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\obj\Debug\netcoreapp2.0\RazorPagesDemo.csproj.AssemblyReference.cache
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\obj\Debug\netcoreapp2.0\RazorPagesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\obj\Debug\netcoreapp2.0\RazorPagesDemo.AssemblyInfoInputs.cache
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\obj\Debug\netcoreapp2.0\RazorPagesDemo.AssemblyInfo.cs
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\obj\Debug\netcoreapp2.0\RazorPagesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\obj\Debug\netcoreapp2.0\RazorPagesDemo.dll
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\obj\Debug\netcoreapp2.0\RazorPagesDemo.pdb
+C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\obj\Debug\netcoreapp2.0\RazorPagesDemo.genruntimeconfig.cache

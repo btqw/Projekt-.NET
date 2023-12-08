@@ -1,0 +1,8 @@
+﻿Rozpoczęto kompilację...
+1>------ Kompilacja rozpoczęta: Projekt: RazorPagesDemo, Konfiguracja: Debug Any CPU ------
+1>C:\Program Files\dotnet\sdk\7.0.401\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.EolTargetFrameworks.targets(29,5): warning NETSDK1138: platforma docelowa „netcoreapp2.0” nie jest już obsługiwana i w przyszłości nie będzie otrzymywać aktualizacji zabezpieczeń. Aby uzyskać więcej informacji na temat zasad pomocy technicznej, zobacz https://aka.ms/dotnet-core-support.
+1>Trwa pomijanie analizatorów, aby przyspieszyć kompilację. Możesz wykonać polecenie „Kompiluj” lub „Kompiluj ponownie”, aby uruchomić analizatory.
+1>RazorPagesDemo -> C:\Users\Bartek\source\repos\projekt ASP_NET\RazorPages\RazorPagesDemo\bin\Debug\netcoreapp2.0\RazorPagesDemo.dll
+1>Kompilowanie projektu „RazorPagesDemo.csproj” wykonane.
+========== Kompilacja: sukces — 1, niepowodzenie — 0, aktualne — 0, pominięto — 0 ==========
+========= Kompilacja rozpoczęto o 21:12 i czas trwania wyniósł 00,232 s ==========
